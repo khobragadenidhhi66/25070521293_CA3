@@ -1,0 +1,21 @@
+{
+  "name": "closetiq",
+  "version": "1.0.0",
+  "description": "ClosetIQ — Digital Wardrobe & Outfit Planning Web Application",
+  "scripts": {
+    "dev:server": "cd server && npm run dev",
+    "dev:client": "cd client && npm run dev",
+    "seed": "cd server && npm run seed",
+    "start": "cd server && npm start"
+  },
+  "keywords": [
+    "wardrobe",
+    "fashion",
+    "closet",
+    "outfit-planner",
+    "mern"
+  ],
+  "author": "ClosetIQ Team",
+  "license": "MIT"
+}
+
